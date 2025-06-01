@@ -1,8 +1,3 @@
-Course: Advanced Programming Concepts
-Student: Marki Lyons
-Term: Fall 2
-Module 7: Project 6
-
 **Project Type**
 
 This app was developed in VSCode using Flutter, Dart, and an Android emulator. It's
@@ -60,7 +55,13 @@ click on the 3 dots to the right, then choose Wipe Data to create a clean device
 start and display the app built in Flutter.
 
 >> An mp4 video of the app is included in this submission. It shows that on click of the 
-button, the images will randomly change. The screen capture was made using Camtasia 2024. 
+button, the images will randomly change. The screen capture was made using Camtasia 2024.
+
+**Author**
+&copy; 2025 Marki Lyons 
+
+**Video Demo**
+[View a demo of the project on YouTube](https://youtu.be/5HLBGb5Tq2A) 
 
 **Resources & Inspiration**
 
